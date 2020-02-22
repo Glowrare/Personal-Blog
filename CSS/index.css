@@ -1,0 +1,29 @@
+body{
+    background-color: blanchedalmond;
+    margin: 1.5%;
+    text-align: left;
+    
+}
+
+.chc-bg{
+    background-color: chocolate;
+}
+
+#introduction{
+    font-family: Tahoma;
+}
+
+.img-teams{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.img-products{
+    width: 150px;
+    height: 150px;
+}
+
+#img-welcome{
+    float: right;
+}
