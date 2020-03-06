@@ -8,6 +8,9 @@
 .chc-bg{
     background-color: chocolate;
 }
+.carousel-inner{
+height: 30rem;
+}
 
 #introduction{
     font-family: Tahoma;
